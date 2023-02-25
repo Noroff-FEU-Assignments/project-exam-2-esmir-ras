@@ -47,13 +47,13 @@ The company CTO has set the following technical restrictions:
 
 ### Required Links
 
-The Product Owner has requested links to the following:
+<!--The Product Owner has requested links to the following:
 1. A Gantt chart for project timing
 2. A design prototype
 3. A style guide
 4. A kanban project board
 5. A repository link
-6. A hosted application demo link
+6. A hosted application demo link -->
 
 ## Approved Resources
 This list covers libraries and services that have been vetted by the company and approved for use.
@@ -72,14 +72,14 @@ This list covers libraries and services that have been vetted by the company and
 - GitHub Pages
 - Netlify
 
-### Design Applications
+<!--### Design Applications
 - Adobe XD
 - Figma
-- Sketch
+- Sketch-->
 
-### Planning Applications
+<!--### Planning Applications
 - Trello
-- GitHub Projects
+- GitHub Projects-->
 
 ## Delivery
 Include the required links in the Moodle delivery window using [this template format](delivery-template.html).
