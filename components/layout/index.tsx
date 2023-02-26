@@ -1,7 +1,7 @@
 import { Menu } from 'components/profiles';
 import { AuthContext } from 'context/AuthContext';
 import Link from 'next/link';
-import Image, { SafeNumber } from 'next/image';
+import Image from 'next/image';
 import { ReactNode, useContext, useState } from 'react';
 import Copyright from '@mui/icons-material/Copyright';
 import { useMediaQuery } from 'react-responsive'; // Import useMediaQuery
