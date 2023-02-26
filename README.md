@@ -10,7 +10,7 @@ To launch the React app, follow these steps:
     Run the command npm install to install the necessary dependencies.
     Run the command npm run dev to start the development server.
 
-Once the server is running, you can access the app in your web browser by navigating to localhost. From there, you can sign up and create a new user, or use the test user credentials I've been using: email - asd@stud.noroff.no, password - asdfasdfasdf.
+Once the server is running, you can access the app in your web browser by navigating to localhost. From there, you can sign up and create a new user with @stud.noroff.no email, or use the test user credentials I've been using: email - asd@stud.noroff.no, password - asdfasdfasdf.
 
 
 
